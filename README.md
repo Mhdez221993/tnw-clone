@@ -1,4 +1,4 @@
-#Tnw Clone
+# Tnw Clone
 
 This project is a clone of **The Next Web** website. The primary goal is to master **CSS** and **HTML** technologies by replicating a responsive version of the archived website.
 The design focuses on responsiveness and ensuring the site adapts seamlessly to different screen sizes, including mobile and desktop.
