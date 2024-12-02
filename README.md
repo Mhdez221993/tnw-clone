@@ -18,7 +18,7 @@ The design focuses on responsiveness and ensuring the site adapts seamlessly to 
 
 ## Live Demo
 
-[Live Demo Link](https://mhdez221993.github.io/tnw-web-page/)
+[Live Demo Link](https://mhdez221993.github.io/tnw-clone/)
 
 ## How to Get Started
 
@@ -76,22 +76,12 @@ The `.stylelintrc` file is already included in the repository. It contains the c
    npx stylelint "**/*.css" --fix
    ```
 
-## Author 1
-
-👤 **Bhagyashree Patra**
-
-- GitHub: [@githubhandle](https://github.com/Vagyasri)
-- Twitter: [@twitterhandle](https://twitter.com/Lucky86074644)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
-
-
-## Author 2
+## Author
 
 👤 **Moises Hernandez**
 
-- GitHub: [@githubhandle](https://github.com/Mhdez221993)
-- Twitter: [@twitterhandle](https://twitter.com/MoisesH42060050)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/moises-hernandez-9bbb17145/)
+- [GitHub](https://github.com/Mhdez221993)
+- [LinkedIn](https://www.linkedin.com/in/moises-hdez-coronado/)
 
 ## 🤝 Contributing
 
