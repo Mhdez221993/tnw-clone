@@ -1,50 +1,98 @@
-#TNW
-This Project is base on a clone of the TNW website the idea is to  master CSS and HTML technologies
+# Tnw Clone
 
-![](https://img.shields.io/badge/Microverse-blueviolet)
+This project is a clone of **The Next Web** website. The primary goal is to master **CSS** and **HTML** technologies by replicating a responsive version of the archived website.
+The design focuses on responsiveness and ensuring the site adapts seamlessly to different screen sizes, including mobile and desktop.
 
-# Project 2: The Next Web
+## Screenshot
 
-> In this project, you will replicate the archived version of the website The Next Web.
-
-# Screenshot
-
-### Mobile 
+### Mobile
 ![Mobile The Next Web](Images/malestone-1-1.png)
 
-### Desktop 
+### Desktop
 ![desktop The Next Web](Images/malestone-1.png)
 
 ## Built With
 
-- HTML
-- CSS
+- **HTML**
+- **CSS**
 
 ## Live Demo
 
-[Live Demo Link](https://mhdez221993.github.io/tnw-web-page/)
+[Live Demo Link](https://mhdez221993.github.io/tnw-clone/)
 
-## Author 1
+## How to Get Started
 
-👤 **Bhagyashree Patra**
+To get a local copy up and running, follow these steps:
 
-- GitHub: [@githubhandle](https://github.com/Vagyasri)
-- Twitter: [@twitterhandle](https://twitter.com/Lucky86074644)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
+### Prerequisites
 
+- A web browser.
+- A code editor like Visual Studio Code.
+- Git installed on your local machine.
+- Node installed on your local machine.
 
-## Author 2
+### Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone git@github.com:Mhdez221993/tnw-clone.git
+   ```
+
+2. Navigate to the project folder:
+
+   ```bash
+   cd tnw-clone
+   ```
+
+3. Open the `index.html` file in your browser to view the project.
+
+## Using Stylelint
+
+This project uses **Stylelint** for CSS linting to maintain code quality and consistency.
+
+### .stylelintrc Configuration
+
+The `.stylelintrc` file is already included in the repository. It contains the configuration for Stylelint.
+
+### How to Use Stylelint
+
+1. Ensure you have Node.js installed on your machine.
+2. Install Stylelint and its necessary plugins by running:
+
+   ```bash
+   npm install stylelint stylelint-config-recommended --save-dev
+   ```
+
+3. To lint your CSS files, run:
+
+   ```bash
+   npx stylelint "**/*.css"
+   ```
+
+4. Fix any auto-fixable issues by running:
+
+   ```bash
+   npx stylelint "**/*.css" --fix
+   ```
+
+## Author
 
 👤 **Moises Hernandez**
 
-- GitHub: [@githubhandle](https://github.com/Mhdez221993)
-- Twitter: [@twitterhandle](https://twitter.com/MoisesH42060050)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/moises-hernandez-9bbb17145/)
+- [GitHub](https://github.com/Mhdez221993)
+- [LinkedIn](https://www.linkedin.com/in/moises-hdez-coronado/)
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/issues).
+
+## Acknowledgments
+
+- **Microverse** for providing the project inspiration and guidance.
+- Original design idea by [The Next Web](https://thenextweb.com/).
 
 ## Show your support
 
