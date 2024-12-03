@@ -76,12 +76,19 @@ The `.stylelintrc` file is already included in the repository. It contains the c
    npx stylelint "**/*.css" --fix
    ```
 
-## Author
+## Author 1
 
 👤 **Moises Hernandez**
 
 - [GitHub](https://github.com/Mhdez221993)
 - [LinkedIn](https://www.linkedin.com/in/moises-hdez-coronado/)
+
+## Author 2
+
+👤 **Bhagyashree Patra**
+
+- [GitHub](https://github.com/Vagyasri)
+- [LinkedIn](https://www.linkedin.com/in/bhagyashree-patra-029bb059/)
 
 ## 🤝 Contributing
 
